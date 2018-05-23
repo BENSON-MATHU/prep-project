@@ -1,0 +1,58 @@
+.glyphicon{
+  color:  #01B2F5;
+}
+.files-pic{
+  width: 30px;
+  height:30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  float: left;
+}
+#pic-text{
+  color: #6C7692;
+  padding-left: 50px;
+}
+#column-left-side{
+  background-color: #444C63;
+  length: 1000px;
+}
+.logo{
+  text-align: center;
+  padding-bottom: 20px;
+}
+.empty{
+  height: 300px;
+}
+.dropBox-logo{
+  width: 90px;
+  height: 90px;
+}
+.get-Started-logo{
+  width: 50px;
+  height: 30px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 2px;
+}
+.files{
+  length:200px;
+  margin-bottom: 20px;
+}
+#upgrade-button{
+  margin-bottom: 15px;
+  border-color: #01B2F5;
+  background-color: #444C63;
+  color: #6C7692;
+}
+#add-logo{
+  width: 26px;
+  height: 26px;
+  padding-left: 0px;
+  padding-right: 5px;
+}
+#capacity{
+  color: white;
+  float: left;
+  padding-right: 54px;
+  font-size: 14px;
+}
